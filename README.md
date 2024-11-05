@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicky01234
+- 👋 Hi, I’m Neerajj 
 - 👀 I’m interested in Ethical hacking
 - 🌱 I’m currently learning cse cyber security
 - 💞️ I’m looking to collaborate on ethical hacking
